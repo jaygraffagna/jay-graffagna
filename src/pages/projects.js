@@ -33,9 +33,10 @@ const projects = () => {
         </h3>
         <label>React, Vite, React Router</label>
         <p>
-          Package created for npm wrapping the MISO Energy API into simple
-          function calls. Built as an alternative to rewriting fetch calls to
-          API endpoints.
+         Portfolio site built for journaling and showcasing art. 
+         The site is styled with vanilla CSS and uses semantic HTML5 elements in React. 
+         The routing is done with react router and lazy loading pseudo page components. 
+         The build system is Vite and is blazing fast.
         </p>
       </article>
       <article>
