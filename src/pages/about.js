@@ -8,12 +8,12 @@ const about = () => {
         My life is much more than my occupation and projects I've
         worked on. I'm a dad to a toddler, Sawyer, and married to my partner,
         Abbey. We live in the Des Moines area. It's a cool small city with a lot
-        going on. I spend a lot of my time away from screens when I am not at
-        work and spending time outside with my family.
+        going on. When I am not at work, I spend a lot of my time away from screens 
+        spending time outside with my family.
       </p>
       <p>
         I live my life everyday with these things in mind: kindness, patience,
-        happiness. I try to take a step back every once in a while and remind
+        and happiness. I try to take a step back every once in a while and remind
         myself about two philosophies. Life is a celebration and the journey is
         the goal.
       </p>
@@ -24,8 +24,7 @@ const about = () => {
         would be a naturalist. I am far from an expert on naturalism and native
         ecosystems, but I love learning from experts and participating in the
         protection of native ecosystems. My partner Abbey is an artist and we
-        both have a passion for the arts. I am not an artist and reserve that
-        title for people more talented than myself. We like getting out and
+        both have a passion for the arts. We like getting out and
         seeing public art or connecting with the local art community. I have
         dabbled a bit in photography and pastel paintings, but don't have much
         to show for it. My all time favorite thing to do is go to live music. I
