@@ -4,7 +4,7 @@ const home = () => {
   return html`
     <section>
       <p>
-        Hey, I'm Jay. You have found my website. Thank you for stopping by. I'm
+        Hey, I'm Jay. You have found my website :). Thank you for stopping by. I'm
         a software developer from the Des Moines area. I'm passionate about
         sustainability. I aspire to be a
         <a
