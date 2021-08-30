@@ -1,10 +1,12 @@
 import html from "../html";
 
-const home = () => {
+const header = () => {
   return html`
-    <img class="profile" alt="Jay Graffagna Profile" />
-    <h1>Jay Graffagna</h1>
+    <header>
+      <img class="profile" alt="Jay Graffagna Profile" />
+      <h1>Jay Graffagna</h1>
+    </header>
   `;
 };
 
-export default home;
+export default header;

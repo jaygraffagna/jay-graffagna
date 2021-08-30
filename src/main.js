@@ -1,4 +1,3 @@
-import html from "./html";
 import "./style.css";
 import header from "./components/header";
 import footer from "./components/footer";
@@ -9,9 +8,11 @@ import about from './pages/about';
 
 document.querySelector("#app").innerHTML = `
 ${header()}
+<main>
 ${home()}
 ${projects()}
 ${principles()}
 ${about()}
+</main>
 ${footer()}
 `;
