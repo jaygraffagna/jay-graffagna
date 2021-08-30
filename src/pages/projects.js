@@ -17,8 +17,8 @@ const projects = () => {
         <label>Node, Browser, Typescript</label>
         <p>
           Package created for npm wrapping the MISO Energy API into simple
-          function calls. Built as an alternative to rewriting http calls to
-          API endpoints.
+          function calls. Built as an alternative to rewriting http calls to API
+          endpoints.
         </p>
       </article>
       <article>
@@ -33,10 +33,10 @@ const projects = () => {
         </h3>
         <label>React, Vite, React Router</label>
         <p>
-         Portfolio site built for journaling and showcasing art. 
-         The site is styled with vanilla CSS and uses semantic HTML5 elements in React. 
-         The routing is done with react router and lazy loading pseudo page components. 
-         The build system is Vite and is blazing fast.
+          Portfolio site built for journaling and showcasing art. The site is
+          styled with vanilla CSS and uses semantic HTML5 elements in React. The
+          routing is done with react router and lazy loading pseudo page
+          components. The build system is Vite and is blazing fast.
         </p>
       </article>
       <article>
@@ -59,13 +59,15 @@ const projects = () => {
         </p>
       </article>
       <article>
-         <a
-            href="https://github.com/jaygraffagna/bntc-site"
+        <h3>
+          <a
+            href="https://github.com/jaygraffagna/bnrc-site"
             target="_blank"
             rel="noopener noreferrer"
-            >miso-energy</a
+            >Bettendorf Natural Resource Committee</a
           >
-        <h3>Bettendorf Natural Resource Committee</a> (Decommissioned)</h3>
+          (Decommissioned)
+        </h3>
         <label>React, Gatsby, Template</label>
         <p>
           Bettendorf Natural Resources Committee website holding content about
