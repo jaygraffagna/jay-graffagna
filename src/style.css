@@ -45,12 +45,12 @@ small, .text_small {font-size: 0.889rem;}
 }
 
 section {
-  width: 600px;
+  width: 625px;
 }
 
 /*Mobile*/
 @media (max-width: 600px) {
   section {
-    width: 300px;
+    width: 310px;
   }
 }
