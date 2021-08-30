@@ -17,7 +17,7 @@ const projects = () => {
         <label>Node, Browser, Typescript</label>
         <p>
           Package created for npm wrapping the MISO Energy API into simple
-          function calls. Built as an alternative to rewriting fetch calls to
+          function calls. Built as an alternative to rewriting http calls to
           API endpoints.
         </p>
       </article>
@@ -59,7 +59,13 @@ const projects = () => {
         </p>
       </article>
       <article>
-        <h3>Bettendorf Natural Resource Committee (Decommissioned)</h3>
+         <a
+            href="https://github.com/jaygraffagna/bntc-site"
+            target="_blank"
+            rel="noopener noreferrer"
+            >miso-energy</a
+          >
+        <h3>Bettendorf Natural Resource Committee</a> (Decommissioned)</h3>
         <label>React, Gatsby, Template</label>
         <p>
           Bettendorf Natural Resources Committee website holding content about
