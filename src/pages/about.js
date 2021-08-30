@@ -23,7 +23,7 @@ const about = () => {
         humans. When people ask me what I would be if I wasn't a developer, I
         would be a naturalist. I am far from an expert on naturalism and native
         ecosystems, but I love learning from experts and participating in the
-        protection of native ecosystems. My partner Abbey is an artist and we
+        protection of native habitats. My partner Abbey is an artist and we
         both have a passion for the arts. We like getting out and
         seeing public art or connecting with the local art community. I have
         dabbled a bit in photography and pastel paintings, but don't have much
