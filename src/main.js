@@ -11,7 +11,6 @@ ${header()}
 <main>
 ${home()}
 ${projects()}
-${principles()}
 ${about()}
 </main>
 ${footer()}
